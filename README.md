@@ -1,4 +1,8 @@
-# NovaNotifier-2
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/13533421/217091989-a6c83344-c818-4abc-abd0-6eab549fa337.png">    
+</p>
+
+# NovaNotifier
 New Version Of NovaNotifier 
   
 [NovaRO Forum](https://www.novaragnarok.com/forum/topic/11837-nova-market-notifier) 
