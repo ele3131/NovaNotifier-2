@@ -8,11 +8,9 @@ New Version Of NovaNotifier
 [NovaRO Forum](https://www.novaragnarok.com/forum/topic/11837-nova-market-notifier) 
 
 ## Build Instructions
-    1. Create your MongoDB Database. (Name: nova / Collections: Items, Users)  
-        1.1 Items: Items icons.
-        1.2 Users: User information.  
-    1. Add your MongoDB SRV to Files/Database.env (E.g: mongo_token = mongodb+srv://...)
-    1. Run main.exe
+    1. Create your MongoDB Database. (Name: nova / Collections: Items, Users)   
+    2. Add your MongoDB SRV to Files/Database.env (E.g: mongo_token = mongodb+srv://...)
+    3. Run main.exe
   
 ## MongoDB User Fields  
     channel[int]: Discord Channel.  
