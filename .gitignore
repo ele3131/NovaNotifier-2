@@ -2,3 +2,6 @@
 /venv
 table2ascii/__pycache__/
 /.vscode
+/dist
+/build
+main.spec
