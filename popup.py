@@ -88,7 +88,7 @@ class Popup(QWidget):
 
                 Discord: Michel#3659
                 Forum: https://novaragnarok.com/forum/topic/11837-novaro-tag-system-program
-                Source: Coming Soon [Stable]
+                Source: https://github.com/ele3131/NovaNotifier-2
             """
         )
 
