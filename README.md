@@ -53,5 +53,8 @@ New Version Of NovaNotifier
         'accounts': False
         }, upsert=True)
   ```  
-    
-  
+
+## Credits  
+GUI: Tomo  
+Logo: Kaeris  
+Icons: [iconscout](https://iconscout.com/contributors/eva-icons/icons)
