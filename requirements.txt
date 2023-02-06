@@ -1,0 +1,15 @@
+PySide6
+qasync
+pytz
+win10toast-persist
+dnspython
+aiohttp
+pyinstaller
+tinyaes
+beautifulsoup4
+motor
+table2ascii
+selenium
+python-dotenv
+webdriver-manager
+cryptography

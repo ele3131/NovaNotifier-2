@@ -1,0 +1,12 @@
+{
+    "SM": 30,
+    "LM": 60,
+    "timer_refresh": 60,
+    "sell_filter": 0,
+    "browser": "chrome",
+    "system_notification": true,
+    "discord_notification": true,
+    "sell_notification": true,
+    "price_notification": true,
+    "tray_icon": false
+}
